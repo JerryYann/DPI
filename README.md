@@ -1,5 +1,7 @@
 # Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution (DPI)
 
+Aaai25 paper, experimental code. We will further improve the code in the future.
+
 This is the codebase for [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233).
 
 # Download pre-trained models
